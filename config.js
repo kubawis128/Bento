@@ -37,7 +37,7 @@ const CONFIG = {
 
 	// Autochange
 	autoChangeTheme: true,
-	theme: latte-mocha,
+	theme: 'latte-mocha',
 	// Autochange by OS
 	changeThemeByOS: true,
 
